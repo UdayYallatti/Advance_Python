@@ -1,0 +1,20 @@
+[project]
+name = "advance-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "nbformat>=5.10.4",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "plotly>=6.5.0",
+    "pydantic>=2.12.5",
+    "requests>=2.32.5",
+    "seaborn>=0.13.2",
+    "streamlit>=1.52.1",
+]
